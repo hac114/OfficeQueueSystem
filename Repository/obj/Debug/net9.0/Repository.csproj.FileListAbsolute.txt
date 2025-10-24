@@ -1,0 +1,17 @@
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\bin\Debug\net9.0\Repository.dll
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\bin\Debug\net9.0\Database.dll
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\bin\Debug\net9.0\DTO.dll
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\bin\Debug\net9.0\Database.pdb
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\bin\Debug\net9.0\DTO.pdb
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.dll
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Users\Utente\source\repos\OfficeQueueSystem\Repository\obj\Debug\net9.0\ref\Repository.dll

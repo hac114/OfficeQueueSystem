@@ -1,0 +1,103 @@
+## .NET ##
+# [Bb]in/
+# [Oo]bj/
+*.user
+*.csproj.user
+*.vbproj.user
+*.csproj.nuget.*
+project.assets.json
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS specific
+.vs/
+*.[Cc]ache
+!*.[Cc]ache/
+
+## Build results
+# [Dd]ebug/
+# [Dd]ebugPublic/
+# [Rr]elease/
+# [Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+# [Bb]in/
+# [Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Docker ##
+docker-compose.override.yml
+.dockerignore
+
+## Database files (Entity Framework, SQL Server, etc.)
+*.mdf
+*.ldf
+*.sdf
+App_Data/
+
+## Keycloak Configuration ##
+**/keycloak.json
+**/keycloak-localhost.json
+**/keycloak-prod.json
+keycloak-*.json
+
+## IDE ##
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## OS ##
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+## NuGet ##
+[Nn]uget/
+*.nupkg
+.nuget/
+packages/
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## Coverage
+*.coverage
+*.coveragexml
+
+## Build output of each project
+# **/bin/
+# **/obj/
+
+## Rider
+.idea/
+*.sln.iml
+
+## Azure Functions
+*.azurefunctions
+
+## Local History
+.history/
+
+## Output of npm/webpack
+node_modules/
+wwwroot/lib/
+
+## App specific configuration overrides
+appsettings.Development.local.json
+appsettings.local.json
+appsettings.Production.local.json
+
+## Entity Framework Migrations (keep the folder but ignore compiled)
+**/Migrations/*.Designer.cs
+**/Migrations/*.sql
+
+## SSL certificates
+*.pfx
+*.pem
