@@ -9,3 +9,15 @@ C:\Users\Utente\source\repos\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.dll
 C:\Users\Utente\source\repos\OfficeQueueSystem\DTO\obj\Debug\net9.0\refint\DTO.dll
 C:\Users\Utente\source\repos\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.pdb
 C:\Users\Utente\source\repos\OfficeQueueSystem\DTO\obj\Debug\net9.0\ref\DTO.dll
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\bin\Debug\net9.0\DTO.deps.json
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\bin\Debug\net9.0\DTO.dll
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\bin\Debug\net9.0\DTO.pdb
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.AssemblyInfoInputs.cache
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.AssemblyInfo.cs
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.sourcelink.json
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.dll
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\refint\DTO.dll
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\DTO.pdb
+C:\Users\MaurizioChieruzzi\Desktop\OfficeQueueSystem\DTO\obj\Debug\net9.0\ref\DTO.dll

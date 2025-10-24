@@ -1,6 +1,6 @@
 ## .NET ##
-# [Bb]in/
-# [Oo]bj/
+[Bb]in/
+[Oo]bj/
 *.user
 *.csproj.user
 *.vbproj.user
@@ -16,23 +16,28 @@ project.assets.json
 !*.[Cc]ache/
 
 ## Build results
-# [Dd]ebug/
-# [Dd]ebugPublic/
-# [Rr]elease/
-# [Rr]eleases/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
 x64/
 x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-# [Bb]in/
-# [Oo]bj/
+[Bb]in/
+[Oo]bj/
 [Ll]og/
 [Ll]ogs/
 
 ## Docker ##
 docker-compose.override.yml
 .dockerignore
+
+## Environment files ##
+.env
+*.env.local
+.env.example
 
 ## Database files (Entity Framework, SQL Server, etc.)
 *.mdf
@@ -72,8 +77,8 @@ packages/
 *.coveragexml
 
 ## Build output of each project
-# **/bin/
-# **/obj/
+**/bin/
+**/obj/
 
 ## Rider
 .idea/
@@ -101,3 +106,6 @@ appsettings.Production.local.json
 ## SSL certificates
 *.pfx
 *.pem
+
+## API specific
+**/launchSettings.json.user
