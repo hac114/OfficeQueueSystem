@@ -10,6 +10,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
+// ✅ CORS PER FRONTEND REACT
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReactFrontend", policy =>
+    {
+        policy.WithOrigins("http://localhost:5173") // Porta del frontend React
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 // Database
 builder.Services.AddDbContext<TicketDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -53,6 +64,9 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 var app = builder.Build();
+
+// ✅ USA CORS (DEVE ESSERE PRIMA DI AUTENTICAZIONE/AUTORIZZAZIONE)
+app.UseCors("AllowReactFrontend");
 
 // Configure pipeline
 if (app.Environment.IsDevelopment())
